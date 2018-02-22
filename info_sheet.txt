@@ -6,44 +6,56 @@ You must submit an information sheet with every assignment.  Also be sure
 to submit all materials following the procedures described on the
 submission procedures page.
 
-Name:  
+Name:  Eric Hunzeker  
 
-Lecture section:  
+Lecture section:  TH 11AM-12:15PM @ VICTO 122 Lecture (W)
 
-Recitation day and time:  
+Recitation day and time:  Friday 10 AM
 
-Assignment #:  
+Assignment #:  2
 
-Program due date:  
+Program due date: 28 February 2018  
 
-Handed in date:  
+Handed in date:  22 February 2018
 
 Source code file name(s):
 
-
-
-
-
-
+BinaryStdIn.java
+BinaryStdOut.java
+LZW.java
+MyLZW.java
+Queue.java
+StdIn.java
+StdOut.java
+TST.java
 
 Other file name(s) (if relevant):
 
+results.txt
 
-
-
-
-
+all.tar
+assig2.doc
+bmps.tar
+code.txt
+code2.txt
+edit.exe
+frosty.jpg
+gone_fishing.bmp
+large.txt
+Lego-big.gif
+medium.txt
+texts.tar
+wacky.bmp
+winnt256.bmp
 
 Does your program run without error?:
+
+Yes
 
 If not, what is/are the error(s) and which parts of your program run
 correctly?:
 
-
-
-
-
-
+N/A
 
 Additional comments to the grader:
 
