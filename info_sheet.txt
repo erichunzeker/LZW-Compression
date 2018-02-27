@@ -59,9 +59,4 @@ N/A
 
 Additional comments to the grader:
 
-
-
-
-
-
-
+i added a nice lil ascii dino to my results.txt so uhhh do with that what you will
